@@ -1,0 +1,13 @@
+{
+  "name": "land-monitoring",
+  "label": "Land React Dashboard",
+  "description": "Full-page land monitoring dashboard with ArcGIS map, region/district filters, charts and statistics.",
+  "version": "1.0.0",
+  "exbVersion": "1.14.0",
+  "author": "SpaceLand",
+  "icon": "icon.svg",
+  "properties": {
+    "hasSettingPage": false,
+    "hasStyle": false
+  }
+}
