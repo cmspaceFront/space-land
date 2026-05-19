@@ -9,5 +9,11 @@
   "properties": {
     "hasSettingPage": false,
     "hasStyle": false
-  }
+  },
+  "dataSource": true,
+  "supportDataAction": false,
+  "supportDataSource": true,
+  "widgetProps": [
+    "useDataSources"
+  ]
 }
