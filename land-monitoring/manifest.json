@@ -7,7 +7,7 @@
   "author": "SpaceLand",
   "icon": "icon.svg",
   "properties": {
-    "hasSettingPage": false,
+    "hasSettingPage": true,
     "hasStyle": false
   },
   "dataSource": true,
