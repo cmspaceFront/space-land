@@ -2,6 +2,7 @@
   "geologyLayerUrl": "https://sgm.uzspace.uz/server/rest/services/Land/land_datasource/FeatureServer/4",
   "accessConfig": {
     "fullAccessGroups": [],
+    "fullAccessUsers": [],
     "rules": []
   }
 }
